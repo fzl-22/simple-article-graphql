@@ -1,6 +1,6 @@
 # Simple Article App
 
-Simple Article Application REST API written using Express.js.
+Simple Article Application GraphQL written using Express.js.
 
 ## TODO:
 
